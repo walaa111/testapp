@@ -32,7 +32,7 @@ var app = {
 	//admob.showBanner(admob.BannerSize.BANNER, admob.Position.BOTTOM_APP);
 
 	var inAppBrowserbRef = cordova.InAppBrowser.open('https://electrostar.ovplatform.tk', '_self', 'location=no,toolbar=no');
-        inAppBrowserbRef = cordova.InAppBrowser.open('http://ramadan.ovplatform.tk/Mosalsallat/my_eposide/132', '_self', 'location=no,toolbar=no,zoom=no');
+        inAppBrowserbRef = cordova.InAppBrowser.open('http://walaa.realdeal.com.eg/basic-usage/', '_self', 'location=no,toolbar=no,zoom=no');
         /*inAppBrowserbRef.addEventListener('loadstart', inAppBrowserbLoadStart);
         inAppBrowserbRef.addEventListener('loadstop', inAppBrowserbLoadStop);
         inAppBrowserbRef.addEventListener('loaderror', inAppBrowserbLoadError);
